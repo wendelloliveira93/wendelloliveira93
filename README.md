@@ -10,3 +10,5 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
+
+![snake gif](https://github.com/wendelloliveira93/wendelloliveira93/blob/output/github-contribution-grid-snake.svg)
