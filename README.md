@@ -11,4 +11,4 @@
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
 
-![snake gif](https://github.com/wendelloliveira93/wendelloliveira93/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
